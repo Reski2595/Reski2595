@@ -1,6 +1,6 @@
 <?php
 
-$access_token = 'YOUR_TOKEN';
+$access_token = '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';
 
 $headers = array(
     'Authorization: token ' . $access_token
