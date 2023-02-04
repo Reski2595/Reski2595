@@ -7,7 +7,7 @@ $headers = array(
 );
 
 $ch = curl_init();
-curl_setopt($ch, CURLOPT_URL, 'https://api.github.com/users/USERNAME');
+curl_setopt($ch, CURLOPT_URL, 'https://api.github.com/users/Reski2595');
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
 
